@@ -1,6 +1,6 @@
 # ofxAlgorithmParameterGroup
 
-Make ofxGui controls for cv::Algorithm object
+Make ofxGui controls for cv::Algorithm
 
 ```c++
 

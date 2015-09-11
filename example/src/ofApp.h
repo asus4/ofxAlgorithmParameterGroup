@@ -17,7 +17,6 @@ class ofApp : public ofBaseApp {
  private:
     ofVideoGrabber vidGrabber;
     ofxPanel gui;
-    ofParameterGroup rootParam;
     ofxAlgorithmParameterGroup parameters;
 
     cv::Ptr<cv::FeatureDetector> detector;
