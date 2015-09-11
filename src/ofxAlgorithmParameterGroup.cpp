@@ -9,7 +9,7 @@
 #include "ofxAlgorithmParameterGroup.h"
 
 using APG = ofx::AlgorithmParameterGroup;
-using Param = cv::Param;
+using cv::Param;
 
 APG::~AlgorithmParameterGroup() {
     reset();
